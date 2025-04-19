@@ -12,7 +12,7 @@
   <a href="#bug-problemas">Problemas</a>
 </p>
 
-<img src="https://res.cloudinary.com/dtgimo0rh/image/upload/v1745036807/celular-computador-imagem_x0tfpf.png">
+<img src="https://res.cloudinary.com/dtgimo0rh/image/upload/v1745037527/celular-computador-imagem_llnpbz.png">
 
 <br>
 
