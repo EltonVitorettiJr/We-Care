@@ -18,7 +18,7 @@
 
 ## :dog: Sobre o Projeto
 
-Esse projeto é sobre um site de cuidados necessários para seu pet!
+Esse projeto é sobre uma interface de site sobre cuidados necessários para seu pet!
 <br>
 
 ## :computer: Tecnologias Usadas
